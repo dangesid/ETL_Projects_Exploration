@@ -1,0 +1,5 @@
+etl_env/
+__pycache__/
+*.log
+*.csv
+.DS_Store
